@@ -1,0 +1,8 @@
+# Streamlit theme — this file is read automatically when you run `streamlit run main.py`
+[theme]
+base = "light"
+primaryColor = "#1E6FD9"              # buttons, sliders, selected widgets
+backgroundColor = "#F4F8FD"           # main page background
+secondaryBackgroundColor = "#E3EEFB"  # sidebar, inputs, code blocks
+textColor = "#0B2545"                 # main text
+font = "sans serif"
